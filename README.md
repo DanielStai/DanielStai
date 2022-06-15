@@ -1,16 +1,38 @@
 ### Hi there 👋
+My name is Daniel Stai Ndirangu. I'm a budding software engineer with ~1 year of experience learning and building cool stuff.
 
-<!--
-**DanielStai/DanielStai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on ...
+- Web scraping with python
 
-Here are some ideas to get you started:
+- Web development with Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data analysis with R
+### 🌱 I’m currently learning ...
+- Algorithms and data structures
+
+- Python Back-end development frameworks (Django, Flask)
+
+- Computer Science fundamentals
+
+- Technical writing
+### 👯 I’m looking to collaborate on ...
+- Data structures and algorithms study
+
+- Technical writing tips
+### 🤔 I’m looking for help with ...
+- Algorithms
+
+- Networking and events
+
+### 💬 Ask me about ...
+- Data analysis
+
+- Mechanical and Manufacturing engineering fundamentals
+
+### 📫 How to reach me: ...
+
+:email: daniel.s.ndirangu@gmail.com
+
+### ⚡ Fun fact: ...
+- It's illegal to own just one guinea pig in Switzerland
+
