@@ -31,7 +31,7 @@ My name is Daniel Stai Ndirangu. I'm a budding software engineer with ~1 year of
 
 ### 📫 How to reach me: ...
 
-:email: daniel.s.ndirangu@gmail.com
+- :email: daniel.s.ndirangu@gmail.com
 
 ### ⚡ Fun fact: ...
 - It's illegal to own just one guinea pig in Switzerland
