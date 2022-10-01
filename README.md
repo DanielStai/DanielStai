@@ -17,6 +17,7 @@ My name is Daniel Stai Ndirangu. I'm a budding software engineer with ~1 year of
 - Technical writing
 ### 👯 I’m looking to collaborate on ...
 - Data structures and algorithms study
+- Open source projects
 
 - Technical writing tips
 ### 🤔 I’m looking for help with ...
