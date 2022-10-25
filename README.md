@@ -2,15 +2,15 @@
 My name is Daniel Stai Ndirangu. I'm a budding software engineer with ~1 year of experience learning and building cool stuff.
 
 ### 🔭 I’m currently working on ...
-- Web scraping with python
+- Node, Express
 
-- Web development with Django
+- GraphQL and REST APIs
 
-- Data analysis with R
+- React, Vue
 ### 🌱 I’m currently learning ...
 - Algorithms and data structures
 
-- Python Back-end development frameworks (Django, Flask)
+- JS frameworks (React, Vue)
 
 - Computer Science fundamentals
 
