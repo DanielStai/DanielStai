@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Daniel Stai Ndirangu. I'm a budding software engineer with ~1 year of experience learning and building cool stuff.
+My name is Daniel Stai Ndirangu. I am a tinkerer with ~1 year of experience learning and building cool stuff.
 
 ### 🔭 I’m currently working on ...
 - Node, Express
