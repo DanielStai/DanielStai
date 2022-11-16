@@ -10,7 +10,7 @@ My name is Daniel Stai Ndirangu. I am a tinkerer with ~1 year of experience lear
 ### 🌱 I’m currently learning ...
 - Algorithms and data structures
 
-- JS frameworks (React, Vue)
+- JS frameworks (React, Vue, Express)
 
 - Computer Science fundamentals
 
