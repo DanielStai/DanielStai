@@ -29,7 +29,7 @@ My name is Daniel Stai Ndirangu. I am a tinkerer with ~1 year of experience lear
 ### 💬 Ask me about ...
 - Data analysis
 
-- Mechanical and Manufacturing engineering fundamentals
+- Mechanical Engineering
 
 ### 📫 How to reach me: ...
 
