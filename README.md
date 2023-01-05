@@ -4,9 +4,9 @@ My name is Daniel Stai Ndirangu. I am a tinkerer with ~1 year of experience lear
 ### 🔭 I’m currently working on ...
 - Node, Express
 
-- GraphQL and REST APIs
+- REST APIs
 
-- React, Vue
+- React
 ### 🌱 I’m currently learning ...
 - Algorithms and data structures
 
@@ -17,6 +17,7 @@ My name is Daniel Stai Ndirangu. I am a tinkerer with ~1 year of experience lear
 - Technical writing
 ### 👯 I’m looking to collaborate on ...
 - Data structures and algorithms study
+
 - Open source projects
 
 - Technical writing tips
